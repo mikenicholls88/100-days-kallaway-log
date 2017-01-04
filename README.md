@@ -1,39 +1,35 @@
-# 100-days-kallaway-log
+# 100-days-Mikes-log
 The log of my 100 Days Of Code (to keep separate from main repo and let people fork a clean version)
 
 ## Log
 
-### Day 1: June 13. Monday
+### Day 1: Jan 1st. Sunday
 
-**Today's Progress**: Spent time fixing CSS and figuring out how canvas works.
+**Today's Progress**: Installed Node-Red, 
+** did the Enki tutorials and tests for Linux, Javascript and Python
 
-**Thoughts:** Feels good to be back at coding.
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/f7590d1e8180bd63167b04494710f27d50b13890)
+### Day 2: Jan 2nd Monday
 
-### Day 2: June 14 Tuesday
+**Today's Progress**: did the 2nd day of enik app tutorials and tests, forked and modified Twitter Bot via Node Twit, broke it
+**Thoughts:** Twit has poor documentation about the method to use various twitter query parameters, cant quite get them to work properly
 
-**Today's Progress**: More progress on the canvas of the Pomodoro Clock. Worked on CSS (still figuring out Flexbox things), have done some work with HTML5 canvas.
 
-**Thoughts:** It's a bit frustrating to spend a lot of time figuring out how the canvas works.
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/2df8eae4f279cf45b6b080abc7f6b0d2cc58e742)
+### Day 3: Jan 3rd Tuesday
 
-### Day 3: June 15 Wednesday
+**Today's Progress**: Did day 3 of the Eniki app tests did at least 3hrs
 
-**Today's Progress**: Mostly worked on CSS. Coded very late at night, after French.
+**Thoughts:** Made the Tweetbot work but broke it a bunch of times as well
 
-**Thoughts:** Had some CSS breakthroughs, and was happy at the end.
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/61bd66ec1d07d3e8d1b21c08380e4c826c79b67f)
 
-### Day 4: June 16 Thursday
+### Day 4: Jan 4th Wednesday
 
-**Today's Progress**: Have spent a lot of time debugging the drawing functions of the timer. Grandfather called (which is great), and I had to code later at night than planned.
-
+**Today's Progress**: Progressed through 17 lessons of the free codecamp, broke and trashed the Tweet bot, tested Node Red but found the Twitter node could not filter based on language
 **Thoughts:** Felt frustrated.
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/cc749b2f544a410515340c1e6575cc1e19a7e4d5);
+
 
 ### Day 5: June 17 Friday
 
